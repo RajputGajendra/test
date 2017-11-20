@@ -9,7 +9,7 @@
 
 <?php
 	
-	echo "Hello there, I wanna use GIT.";
+	echo "Hello there, Now I have commited changes into master branch.";
 	
 	?>
 
