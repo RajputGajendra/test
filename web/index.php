@@ -1,0 +1,19 @@
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<?php include("common/head.php"); ?>
+
+<body>
+
+<?php include("common/header.php"); ?>
+
+<?php include("common/banner.php"); ?>
+
+<?php include("common/footer.php"); ?>
+</body>
+</html>
